@@ -17,6 +17,7 @@ except NameError:
 
 nomes_imagens = [f"foto{i}_final.png" for i in range(1, 9)]
 
+# --- Suas legendas personalizadas ---
 legendas = [
     "Nossa primeira foto juntos",
     "Esse seu sorriso jamais irei esquecer no nosso primeiro ano como namorados",
